@@ -1,4 +1,4 @@
-# [Argon Dashboard PRO](https://www.creative-tim.com/product/argon-dashboard)
+# [Argon Dashboard PRO](https://www.creative-tim.com/product/argon-dashboard-pro)
 
 ![Product Gif](https://s3.amazonaws.com/creativetim_bucket/products/137/original/opt_adp_thumbnail.jpg)
 
