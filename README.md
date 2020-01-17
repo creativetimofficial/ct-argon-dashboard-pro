@@ -53,7 +53,7 @@ If you want to get inspiration or just show something directly to your clients, 
 
 | Laravel | NodeJs| Nuxt |
 | --- | --- | --- |
-| [![Argon Dashboard PRO Laravel ](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/argon-dashboard-pro-laravel/argon-dashboard-pro-laravel.jpg)](https://www.creative-tim.com/product/argon-dashboard-pro-laravel) | [![Argon Dashboard PRO Nodejs](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/argon-dashboard-pro-nodejs/argon-dashboard-pro-nodejs.jpg)](https://www.creative-tim.com/product/argon-dashboard-pro-nodejs) | [![Nuxt Argon Dashboard PRO](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/nuxt-argon-dashboard-pro/nuxt-argon-dashboard-pro.jpg)](https://www.creative-tim.com/product/nuxt-argon-dashboard-pro)
+| [![Argon Dashboard PRO Laravel ](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/argon-dashboard-pro-laravel/argon-dashboard-pro-laravel.jpg)](https://www.creative-tim.com/product/argon-dashboard-pro-laravel) | [![Argon Dashboard PRO Nodejs](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/argon-dashboard-pro-nodejs/argon-dashboard-pro-nodejs.jpg)](https://www.creative-tim.com/product/argon-dashboard-pro-nodejs) | [![Nuxt Argon Dashboard PRO](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/nuxt-argon-dashboard-pro/opt_adp_nuxt_thumbnail.jpg)](https://www.creative-tim.com/product/nuxt-argon-dashboard-pro)
 ## Demo
 
 - [Index Page](https://demos.creative-tim.com/argon-dashboard-pro)
@@ -188,4 +188,3 @@ We use GitHub Issues as the official bug tracker for the Argon Dashboard PRO. He
 - Dribbble: <https://dribbble.com/creativetim>
 - Google+: <https://plus.google.com/+creativetimpage>
 - Instagram: <https://www.instagram.com/creativetimofficial>
-
