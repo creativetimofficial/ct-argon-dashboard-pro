@@ -19,3 +19,9 @@
 - Add RTL Support
 - Add DateTimePicker
 
+## [1.2.1] 2021-04-20
+### Fixed issues
+- Fix checkbox icon
+- Remove fullcalendar month images
+- Fix emphasis-variant() mixin in utilities
+- Update issue template
