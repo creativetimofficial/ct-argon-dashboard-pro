@@ -186,5 +186,4 @@ We use GitHub Issues as the official bug tracker for the Argon Dashboard PRO. He
 - Twitter: <https://twitter.com/creativetim>
 - Facebook: <https://www.facebook.com/creativetim>
 - Dribbble: <https://dribbble.com/creativetim>
-- Google+: <https://plus.google.com/+creativetimpage>
 - Instagram: <https://www.instagram.com/creativetimofficial>
